@@ -116,19 +116,11 @@ I'm always learning new technologies and improving my development skills.
 `Git` `GitHub` `Termux` `Requests`
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoDoFFshah&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoDoFFshah&layout=compact&theme=tokyonight)
----
-
 ## 🎯 Goals | اهداف
 
 🇮🇷
 
-تبدیل شدن به یک **توسعه‌دهنده حرفه‌ای**، ساخت پروژه‌های بزرگ‌تر و کاربردی‌تر و یادگیری مداوم تکنولوژی‌های جدید.
+تبدیل شدن به یک **توسعه‌دهنده حرفه‌ای / مهندس نرم افزار**، ساخت پروژه‌های بزرگ‌تر و کاربردی‌تر و یادگیری مداوم تکنولوژی‌های جدید.
 
 🇬🇧
 
