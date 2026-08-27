@@ -1,21 +1,29 @@
-Hi, I'm Taha 👋
+# Hi, I'm Taha 👋
 
-Python Developer • Telegram Bot Developer • Software Developer
+**Python Developer • Telegram Bot Developer**
 
-I'm a Python developer focused on Telegram Bots, Backend Development and Automation.
+---
 
-🛠️ Languages & Tools
+## 🛠️ Skills
 
-Python • Kotlin • JavaScript • TypeScript
+**Languages**
 
-Django • Telethon • Pyrogram • Aiogram • PyTelegramBotAPI
+- Python
+- Kotlin
+- JavaScript
+- TypeScript
 
-MariaDB • PostgreSQL
+**Frameworks**
 
-Git • GitHub • Termux • Requests
+- Django
+- Telethon
+- Pyrogram
+- Aiogram
 
-🚀 Currently
+---
 
-Building projects, learning new technologies and improving my development skills.
+## 🚀 About Me
 
-«Code. Build. Learn. Repeat.»
+I'm a developer who enjoys building **Telegram Bots, Backend Projects and Automation Tools**.
+
+> Code. Build. Learn. Repeat.
